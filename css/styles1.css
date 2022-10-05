@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+.text-header {
+    font-size: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    color: #0086e0;
+}
+
+.punya {
+    background: none rgb(0, 134, 224);
+    margin-top: 30px;
+    font-family: Arial;
+    box-shadow: rgb(170 170 170) 2px 2px 4px 0px;
+}
+
+.btn-light {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    background-color: white;
+    font-family: Arial;
+    color:  rgb(0, 134, 224);
+    font-size: 20px;
+}
